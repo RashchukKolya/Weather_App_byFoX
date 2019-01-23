@@ -1,17 +1,17 @@
 {
   "main.css": "/Weather_App_byFoX/static/css/main.e5ca4cf4.chunk.css",
-  "main.js": "/Weather_App_byFoX/static/js/main.64ebb37c.chunk.js",
-  "main.js.map": "/Weather_App_byFoX/static/js/main.64ebb37c.chunk.js.map",
+  "main.js": "/Weather_App_byFoX/static/js/main.469a87d1.chunk.js",
+  "main.js.map": "/Weather_App_byFoX/static/js/main.469a87d1.chunk.js.map",
   "static/css/1.529020e3.chunk.css": "/Weather_App_byFoX/static/css/1.529020e3.chunk.css",
   "static/js/1.fbdde860.chunk.js": "/Weather_App_byFoX/static/js/1.fbdde860.chunk.js",
   "static/js/1.fbdde860.chunk.js.map": "/Weather_App_byFoX/static/js/1.fbdde860.chunk.js.map",
   "runtime~main.js": "/Weather_App_byFoX/static/js/runtime~main.5fdbe6aa.js",
   "runtime~main.js.map": "/Weather_App_byFoX/static/js/runtime~main.5fdbe6aa.js.map",
-  "static/css/1.529020e3.chunk.css.map": "/Weather_App_byFoX/static/css/1.529020e3.chunk.css.map",
+  "static/css/main.e5ca4cf4.chunk.css.map": "/Weather_App_byFoX/static/css/main.e5ca4cf4.chunk.css.map",
   "static/media/DefaultImg.jpg": "/Weather_App_byFoX/static/media/DefaultImg.e50309c5.jpg",
   "static/media/Polonne.png": "/Weather_App_byFoX/static/media/Polonne.ba3f73e2.png",
-  "static/css/main.e5ca4cf4.chunk.css.map": "/Weather_App_byFoX/static/css/main.e5ca4cf4.chunk.css.map",
+  "static/css/1.529020e3.chunk.css.map": "/Weather_App_byFoX/static/css/1.529020e3.chunk.css.map",
   "index.html": "/Weather_App_byFoX/index.html",
-  "precache-manifest.3f016ce252843a45327e80f79852d5ef.js": "/Weather_App_byFoX/precache-manifest.3f016ce252843a45327e80f79852d5ef.js",
+  "precache-manifest.7120e29d7f5f771f0adea11e33e6e49c.js": "/Weather_App_byFoX/precache-manifest.7120e29d7f5f771f0adea11e33e6e49c.js",
   "service-worker.js": "/Weather_App_byFoX/service-worker.js"
 }
