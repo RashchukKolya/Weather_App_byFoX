@@ -12,23 +12,23 @@ self.__precacheManifest = [
     "url": "/Weather_App_byFoX/static/js/runtime~main.5fdbe6aa.js"
   },
   {
-    "revision": "469a87d1581a3f1bfabb",
-    "url": "/Weather_App_byFoX/static/js/main.469a87d1.chunk.js"
+    "revision": "4dcad3bad60ed7a463ed",
+    "url": "/Weather_App_byFoX/static/js/main.4dcad3ba.chunk.js"
   },
   {
-    "revision": "fbdde86011ff37741311",
-    "url": "/Weather_App_byFoX/static/js/1.fbdde860.chunk.js"
+    "revision": "f83e67f103071665f245",
+    "url": "/Weather_App_byFoX/static/js/1.f83e67f1.chunk.js"
   },
   {
-    "revision": "469a87d1581a3f1bfabb",
-    "url": "/Weather_App_byFoX/static/css/main.e5ca4cf4.chunk.css"
+    "revision": "4dcad3bad60ed7a463ed",
+    "url": "/Weather_App_byFoX/static/css/main.7c901834.chunk.css"
   },
   {
-    "revision": "fbdde86011ff37741311",
+    "revision": "f83e67f103071665f245",
     "url": "/Weather_App_byFoX/static/css/1.529020e3.chunk.css"
   },
   {
-    "revision": "53bc86dbfbfc894e2637f47330254805",
+    "revision": "b24a5cdb256acbb948cdb65baf5b8869",
     "url": "/Weather_App_byFoX/index.html"
   }
 ];
