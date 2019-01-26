@@ -1,7 +1,7 @@
 {
   "main.css": "/Weather_App_byFoX/static/css/main.48051b52.chunk.css",
-  "main.js": "/Weather_App_byFoX/static/js/main.0c586009.chunk.js",
-  "main.js.map": "/Weather_App_byFoX/static/js/main.0c586009.chunk.js.map",
+  "main.js": "/Weather_App_byFoX/static/js/main.6c6c03a2.chunk.js",
+  "main.js.map": "/Weather_App_byFoX/static/js/main.6c6c03a2.chunk.js.map",
   "static/css/1.529020e3.chunk.css": "/Weather_App_byFoX/static/css/1.529020e3.chunk.css",
   "static/js/1.f83e67f1.chunk.js": "/Weather_App_byFoX/static/js/1.f83e67f1.chunk.js",
   "static/js/1.f83e67f1.chunk.js.map": "/Weather_App_byFoX/static/js/1.f83e67f1.chunk.js.map",
@@ -12,6 +12,6 @@
   "static/media/Polonne.png": "/Weather_App_byFoX/static/media/Polonne.ba3f73e2.png",
   "static/css/1.529020e3.chunk.css.map": "/Weather_App_byFoX/static/css/1.529020e3.chunk.css.map",
   "index.html": "/Weather_App_byFoX/index.html",
-  "precache-manifest.5a61d3c1c18cc7852019aa6f10e686a5.js": "/Weather_App_byFoX/precache-manifest.5a61d3c1c18cc7852019aa6f10e686a5.js",
+  "precache-manifest.e49aee6761381b4fea141c01eddaa24b.js": "/Weather_App_byFoX/precache-manifest.e49aee6761381b4fea141c01eddaa24b.js",
   "service-worker.js": "/Weather_App_byFoX/service-worker.js"
 }

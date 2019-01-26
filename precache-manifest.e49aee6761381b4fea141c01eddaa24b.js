@@ -12,15 +12,15 @@ self.__precacheManifest = [
     "url": "/Weather_App_byFoX/static/js/runtime~main.5fdbe6aa.js"
   },
   {
-    "revision": "0c586009fa3617321ce0",
-    "url": "/Weather_App_byFoX/static/js/main.0c586009.chunk.js"
+    "revision": "6c6c03a266c38631ed99",
+    "url": "/Weather_App_byFoX/static/js/main.6c6c03a2.chunk.js"
   },
   {
     "revision": "f83e67f103071665f245",
     "url": "/Weather_App_byFoX/static/js/1.f83e67f1.chunk.js"
   },
   {
-    "revision": "0c586009fa3617321ce0",
+    "revision": "6c6c03a266c38631ed99",
     "url": "/Weather_App_byFoX/static/css/main.48051b52.chunk.css"
   },
   {
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/Weather_App_byFoX/static/css/1.529020e3.chunk.css"
   },
   {
-    "revision": "5a219cbcda489564b5645085b3baadcb",
+    "revision": "4e9fc125c06d77f25570400b3a6fd169",
     "url": "/Weather_App_byFoX/index.html"
   }
 ];
