@@ -1,0 +1,62 @@
+.list {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+
+  list-style: none;
+  width: 70%;
+  margin: 4% auto 9%;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  
+}
+.item {
+  text-decoration: none;
+  font-size: 14px;
+  color: white;
+  text-transform: uppercase;
+  background-color: transparent;
+  padding: 2px 5px 0;
+  border-radius: 20px;
+  -webkit-transition: 700ms;
+  -o-transition: 700ms;
+  transition: 700ms;
+  font-weight: 500;
+  -webkit-box-shadow: 0 0 5px 3px rgba(255, 255, 255, 0.8);
+          box-shadow: 0 0 5px 3px rgba(255, 255, 255, 0.8);
+  border-bottom: 2px solid #000;
+}
+
+.item:hover {
+  color: white;
+  border-bottom: 2px solid #fff;
+  background-color: rgba(0, 0, 0, 1);
+  -webkit-box-shadow: 0 0 5px 5px rgba(255, 255, 255, 0.6);
+          box-shadow: 0 0 5px 5px rgba(255, 255, 255, 0.6);
+}
+@media(min-width: 768px){
+  .list{
+    width: 40%;
+    margin-bottom: 7%;
+  }
+}
+@media(min-width: 960px){
+  .list{
+    width: 40%;
+    margin-bottom: 5%;
+    -ms-flex-pack: distribute;
+        justify-content: space-around;
+  }
+}
+@media(min-width: 1200px){
+  .list{
+    width: 25%;
+    position: absolute;
+    left: 5%;
+    top: 6%;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+  }
+}

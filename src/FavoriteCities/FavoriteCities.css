@@ -1,0 +1,45 @@
+.list {
+  width: 90%;
+  margin:auto;
+  color: white;
+  text-transform: capitalize;
+  font-size: 20px;
+  list-style: none;
+  height: 217px;
+  overflow: auto;
+  cursor: pointer;
+}
+.list::-webkit-scrollbar { width: 3px;}
+     ::-webkit-scrollbar-track-piece { background-color: transparent;}
+     ::-webkit-scrollbar-thumb { height: 50px; background-color: white; border-radius: 100%;}
+.item {
+position: relative;
+border-bottom: 1px solid white;
+} 
+.trash {
+position: absolute;
+right: 0;
+bottom: 4px;
+}
+@media (min-width: 768px){
+  .list {
+    width: 60%;
+    font-size: 25px;
+  }
+}
+@media (min-width: 960px){
+  .list {
+    width: 40%;
+    font-size: 20px;
+  }
+}
+@media(min-width: 1200px){
+  .list{
+    width: 20%;
+    position: absolute;
+    right: 5%;
+    top: 20%;
+    height: 160px;
+    font-size: 20px;
+  }
+}
